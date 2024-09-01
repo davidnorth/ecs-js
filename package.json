@@ -1,0 +1,7 @@
+{
+  "name": "ecs-js",
+  "version": "1.0.0",
+  "description": "ECS Implementation for JS",
+  "main": "src/index.js",
+  "license": "MIT"
+}
